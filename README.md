@@ -1,7 +1,7 @@
 # HTML & CSS Website Layout
 
 ## Overview
-This project is a simple website layout created using HTML and CSS. It features a modern navigation bar, a full-screen background image, and a centered title section with call-to-action buttons. The design is clean, elegant, and easy to customize.
+This repository contains a simple website layout built using HTML and CSS. The project features a navigation bar, a full-screen background image, and a central title section with buttons. The design follows a modern and clean UI approach, making it a great starting point for beginners learning frontend development.
 
 ## Features
 - Fixed navigation bar with menu items
