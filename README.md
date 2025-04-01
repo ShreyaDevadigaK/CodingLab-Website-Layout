@@ -21,15 +21,6 @@ CodingLab-Website-Layout/
 │── img.jpeg        # Background image (add your own image)
 ```
 
-## Customization
-- To change the background image, replace `img.jpeg` with your own image.
-- Modify `style.css` to adjust colors, fonts, and layout according to your preference.
-
-
-
 ## Author
 Developed by ShreyaDevadiga
-
----
-Feel free to contribute, suggest improvements, or report issues!
 
