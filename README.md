@@ -13,17 +13,6 @@ This repository contains a simple website layout built using HTML and CSS. The p
 - HTML5 for structuring the webpage
 - CSS3 for styling and layout design
 
-## How to Use
-1. Clone the repository:
- ```bash
-  git clone https://github.com/ShreyaDevadigaK/CodingLab-Website-Layout.git
-  ```
-2. Navigate to the project folder:
- ``` bash
-  cd CodingLab-Website-Layout
-```
-4. Open ```main.html``` in your browser to view the website.
-
 ## File Structure
 ```
 CodingLab-Website-Layout/
@@ -36,8 +25,7 @@ CodingLab-Website-Layout/
 - To change the background image, replace `img.jpeg` with your own image.
 - Modify `style.css` to adjust colors, fonts, and layout according to your preference.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+
 
 ## Author
 Developed by ShreyaDevadiga
